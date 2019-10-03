@@ -1,0 +1,5 @@
+target/scala-2.13 target/streams
+.idea/$PRODUCT_WORKSPACE_FILE$ .idea/codeStyles .idea/libraries .idea/misc.xml .idea/modules .idea/modules.xml .idea/sbt.xml .idea/scala_compiler.xml .idea/workspace.xml
+target/*
+.idea/*
+*target*
